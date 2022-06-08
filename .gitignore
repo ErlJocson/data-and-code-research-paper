@@ -1,0 +1,16 @@
+/venv
+factor_variance.csv
+kmo.csv
+loadings.csv
+bartletts.csv
+Cronbach.csv
+Factors.csv
+Eigenvalues.csv
+Personal factor if item removed.csv
+Social factor if item removed.csv
+Course factor if item removed.csv
+Economic factor if item removed.csv
+survival function.csv
+baseline cumhazard.csv
+hazard rate.csv
+Chi square result.csv
